@@ -1,4 +1,4 @@
-# ROBOVORTEX VISION - Object Detection Framework
+# AI Object Detection Framework
 
 A Python desktop application for real-time object detection using YOLOv8. Supports live webcam feed and still image analysis through a modern GUI built with CustomTkinter.
 
