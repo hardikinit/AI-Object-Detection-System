@@ -40,13 +40,6 @@ project/
 |-- coco_labels.txt         80 COCO class names, one per line
 |-- requirements.txt        Python dependencies
 |-- README.md               This file
-|-- models/                 Created by download_models.py
-|   |-- frozen_inference_graph.pb
-|   |-- ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt
-|   |-- yolov4-tiny.cfg
-|   |-- yolov4-tiny.weights
-|   |-- yolov3.cfg
-|   |-- yolov3.weights
 |-- snapshots/              Saved snapshots from webcam (created at runtime)
 ```
 
