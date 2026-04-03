@@ -83,6 +83,8 @@ def scan_cameras() -> list[dict]:
 # ── Helpers ────────────────────────────────────────────────────────────────────
 def load_class_labels(filepath: str) -> list:
     with open(filepath, "rt") as f:
+
+      
         return f.read().rstrip("\n").split("\n")
 
 
