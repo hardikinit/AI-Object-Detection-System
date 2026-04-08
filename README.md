@@ -45,7 +45,7 @@ project/
 
 ---
 
-## Setup
+## Setup and install
 
 ### 1. Install dependencies
 
