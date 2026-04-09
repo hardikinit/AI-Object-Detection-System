@@ -82,6 +82,7 @@ def load_class_labels(filepath: str) -> list:
 
 def build_yolo_model():
     model = YOLO("yolov8n.pt")  # or yolov8l.pt for better accuracy
+    
     return model
 
 
