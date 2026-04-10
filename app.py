@@ -9,7 +9,7 @@ Features:
   • Live webcam feed with real-time object detection
   • Load and detect objects in still images
       • Adjustable confidence threshold + NMS threshold via sliders
-  • Live FPS counter and detection log
+    • Live FPS counter and detection log
   • Snapshot capture from webcam
   • Start / Stop / Snapshot controls
 
